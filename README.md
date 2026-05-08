@@ -104,3 +104,17 @@ Star the repo if you find it useful!
 
 **Made for independent creators, course creators, digital product sellers, and solopreneurs.**  
 Let's make creator commerce more accessible, customizable, and profitable.
+
+
+## 📈 Star History
+
+<div align="center">
+  <a href="https://www.star-history.com/?repos=ishandutta2007%2FAwesome-Indie-Commerce&type=date&legend=bottom-right">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Indie-Commerce&type=date&theme=dark&legend=bottom-right" />
+      <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Indie-Commerce&type=date&legend=bottom-right" />
+      <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Indie-Commerce&type=date&legend=bottom-right" />
+    </picture>
+  </a>
+</div>
+
