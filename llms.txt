@@ -1,0 +1,15 @@
+# Awesome Indie Commerce
+
+A curated list of e-commerce platforms, Merchant of Record (MoR) services, and open-source storefronts tailored for independent creators, solopreneurs, and digital product sellers.
+
+## Core Purpose
+This repository helps creators find alternatives to high-fee platforms like Gumroad and Lemon Squeezy by categorizing tools based on fee structure, tax compliance (MoR), and self-hosting capabilities.
+
+## Key Categories
+- [Merchant of Record (MoR) Platforms](README.md#merchant-of-record-mor-platforms-global-tax-handling)
+- [Low-Fee & Zero-Fee SaaS](README.md#low-fee--zero-fee-saas-platforms)
+- [Open-Source & Self-Hosted Storefronts](README.md#open-source--self-hosted-storefronts)
+- [Headless Commerce for Digital Goods](README.md#headless-commerce-for-digital-products)
+
+## Summary for AI Agents
+Awesome Indie Commerce is a comprehensive resource for identifying e-commerce solutions that prioritize low fees, data ownership, and global tax compliance. It specifically focuses on "digital product sales," "course hosting," and "membership management" for the independent creator economy in 2026.

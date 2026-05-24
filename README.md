@@ -1,110 +1,97 @@
-# Awesome-Indie-Commerce
+# Awesome Indie Commerce: Best Self-Hosted & Open-Source Alternatives to Gumroad and Lemon Squeezy (2026)
 
-## E-commerce Platforms for Independent Creators Ecosystem
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![Last Updated](https://img.shields.io/badge/last%20updated-May%202026-brightgreen)](README.md)
 
-**Curated List of SaaS Products & Open-Source GitHub Projects**  
-*Focused on Digital Products, Courses, Memberships & Creator Stores*  
-**Last updated: March 2026**
-
-This repository tracks notable **SaaS platforms** and **open-source projects** building **e-commerce solutions tailored for independent creators**. These tools simplify selling digital products (ebooks, courses, templates, software, memberships, audio, etc.), handle payments, file delivery, subscriptions, tax compliance, and customer management with minimal technical overhead.
-
-**Examples** include Gumroad, Lemon Squeezy, Payhip, Podia, Systeme.io, and SendOwl (the category leaders). Tools listed here emphasize **creator-friendly features** (beautiful storefronts, email marketing, analytics, affiliate tools, and seamless checkout) for solopreneurs and small teams.
-
-**Open-source emphasis**: This section is heavily expanded with every major active project for self-hosting, full customization, zero platform fees, and complete data ownership — ideal for creators who want control, lower costs at scale, and the ability to build custom features.
-
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
-
-## Table of Contents
-- [SaaS Products](#saas-products)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-- [How to Contribute](#how-to-contribute)
-- [Disclaimer](#disclaimer)
-
-## SaaS Products
-
-### Core Platforms (Creator-Focused E-commerce)
-
-- **[Gumroad](https://gumroad.com/)**  
-  The original creator-first platform for selling digital products with simple checkout, file delivery, subscriptions, and audience-building tools.
-
-- **[Lemon Squeezy](https://www.lemonsqueezy.com/)**  
-  Merchant of Record platform handling global tax, payments, and compliance. Popular for software, ebooks, courses, and memberships with strong developer tools.
-
-- **[Payhip](https://payhip.com/)**  
-  User-friendly platform for digital downloads, courses, and memberships with low fees, EU VAT handling, and built-in marketing features.
-
-- **[Podia](https://www.podia.com/)**  
-  All-in-one platform for courses, digital downloads, memberships, webinars, and email marketing — no transaction fees on higher plans.
-
-- **[Systeme.io](https://systeme.io/)**  
-  Complete creator suite with e-commerce, funnels, email marketing, automation, and affiliate management.
-
-- **[SendOwl](https://www.sendowl.com/)**  
-  Lightweight digital product delivery platform focused on secure downloads, subscriptions, and bundles.
-
-### Advanced & Specialized Platforms
-
-**Other notable mentions**: Sellfy, Stan Store, Ko-fi, ThriveCart, Fourthwall, and Shopify with digital product apps.
-
-## Open-Source GitHub Projects
-
-### Dedicated Creator & Digital Product E-commerce Projects
-
-- **[WooCommerce](https://github.com/woocommerce/woocommerce)**  
-  Most popular open-source e-commerce solution built on WordPress. With plugins like Easy Digital Downloads (EDD) or WooCommerce Memberships, it becomes a powerful Gumroad alternative for selling digital products, courses, and subscriptions.
-
-- **[MedusaJS](https://github.com/medusajs/medusa)**  
-  Modern headless commerce engine built with Node.js. Extremely flexible for creating custom creator storefronts with digital downloads, subscriptions, and custom checkouts.
-
-- **[Bagisto](https://github.com/bagisto/bagisto)**  
-  Laravel-based open-source e-commerce platform with beautiful UI, multi-vendor support, and strong features for digital products and subscriptions.
-
-- **[Saleor](https://github.com/saleor/saleor)**  
-  Headless, API-first e-commerce platform built with Python/GraphQL. Excellent for building high-performance creator stores with full customization.
-
-- **[Spree Commerce](https://github.com/spree/spree)**  
-  Mature headless e-commerce framework with REST API and Next.js storefront. Supports digital products, subscriptions, and complex creator workflows.
-
-- **[Vendure](https://github.com/vendure-ecommerce/vendure)**  
-  TypeScript/Node.js headless commerce framework designed for flexibility and developer experience. Great for custom digital product stores.
-
-- **[Aimeos](https://github.com/aimeos/aimeos-laravel)**  
-  Ultra-fast Laravel e-commerce package. Can power professional creator marketplaces with digital downloads and subscriptions.
-
-- **[Solidus](https://github.com/solidusio/solidus)**  
-  Open-source Ruby on Rails e-commerce platform forked from Spree. Highly customizable for digital goods and creator needs.
-
-### Additional Strong Open-Source Options
-
-- **[PrestaShop](https://github.com/PrestaShop/PrestaShop)** — Full-featured PHP platform with excellent digital product modules.
-- **[OpenCart](https://github.com/opencart/opencart)** — Lightweight and easy-to-use for digital downloads.
-- **[Sylius](https://github.com/Sylius/Sylius)** — Symfony-based e-commerce framework focused on developer experience.
-- **Easy Digital Downloads (EDD)** — WordPress plugin specifically built for selling digital products (highly recommended with WooCommerce).
-- **[Reaction Commerce](https://github.com/reactioncommerce/reaction)** (legacy but still used) and modern forks.
-- Community templates and starters for Next.js + Medusa / Saleor tailored for creators.
-
-**Frameworks for building custom stores**: Combine **Medusa / Saleor / Vendure** (headless) with **Next.js** storefronts + Stripe/PayPal + Supabase/Firebase for auth and storage. Add **Strapi** or **Payload CMS** for content management of courses and products.
-
-## How to Contribute
-
-1. Fork the repo.
-2. Add/edit entries in `README.md` (follow existing format).
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-4. Submit PR with a short explanation.
-
-Star the repo if you find it useful!
-
-## Disclaimer
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-- Always verify payment processor fees, tax compliance (especially VAT/GST), and security when handling customer data and digital deliveries.
-- Self-hosted open-source solutions require technical maintenance, hosting, and backups. Consider your technical comfort level before choosing.
+> **What is Awesome Indie Commerce?**  
+> Awesome Indie Commerce is a curated directory of e-commerce platforms and open-source tools specifically designed for independent creators selling digital products, courses, and memberships. It focuses on identifying high-value **Merchant of Record (MoR)** alternatives and **self-hosted storefronts** that offer lower fees and greater data ownership than traditional marketplaces.
 
 ---
 
-**Made for independent creators, course creators, digital product sellers, and solopreneurs.**  
-Let's make creator commerce more accessible, customizable, and profitable.
+- [📖 Table of Contents](#-table-of-contents)
+- [Side-by-Side Comparison (Gumroad vs Lemon Squeezy vs Others)](COMPARISON.md)
+- [Merchant of Record (MoR) Platforms (Global Tax Handling)](#merchant-of-record-mor-platforms-global-tax-handling)
+- [Low-Fee & Zero-Fee SaaS Platforms](#low-fee--zero-fee-saas-platforms)
+- [Open-Source & Self-Hosted Digital Storefronts](#open-source--self-hosted-digital-storefronts)
+- [Headless Commerce & Frameworks for Digital Goods](#headless-commerce--frameworks-for-digital-goods)
+- [AI-Agent Friendly Commerce Tools](#ai-agent-friendly-commerce-tools)
+- [How to Choose the Right Platform](#how-to-choose-the-right-platform)
+- [How to Contribute](#how-to-contribute)
+- [Disclaimer](#disclaimer)
 
+---
+
+## 🌍 Merchant of Record (MoR) Platforms (Global Tax Handling)
+These platforms act as the legal seller, handling global sales tax (VAT, GST), payment compliance, and fraud prevention on your behalf. Ideal for creators who want to "set it and forget it."
+
+- **[Lemon Squeezy](https://www.lemonsqueezy.com/)** — A leader in MoR for SaaS and digital goods. Handles all taxes and compliance.
+- **[Paddle](https://www.paddle.com/)** — Enterprise-grade MoR platform with robust B2B billing and subscription management.
+- **[Gumroad](https://gumroad.com/)** — The original creator marketplace (MoR). Simple but features a flat 10% fee.
+- **[Payhip](https://payhip.com/)** — A popular MoR alternative with lower fees and excellent EU VAT handling.
+
+---
+
+## 💸 Low-Fee & Zero-Fee SaaS Platforms
+Best for solopreneurs and small teams looking to maximize margins. Some are MoR, others require you to handle your own taxes (using Stripe/PayPal).
+
+- **[Payhip](https://payhip.com/)** — Offers a **Free plan (5% fee)** and a Pro plan with **0% transaction fees**.
+- **[Podia](https://www.podia.com/)** — All-in-one for courses and downloads; no transaction fees on higher plans.
+- **[Stan Store](https://www.stan.store/)** — Optimized for high-conversion "Link-in-bio" mobile checkouts.
+- **[SendOwl](https://www.sendowl.com/)** — Lightweight delivery platform focused on secure digital downloads and subscriptions.
+- **[Systeme.io](https://systeme.io/)** — Comprehensive suite with funnels and email marketing; very competitive pricing.
+
+---
+
+## 🏗️ Open-Source & Self-Hosted Digital Storefronts
+For creators who want **zero platform fees**, full data ownership, and complete customization. You are the Merchant of Record here.
+
+- **[WooCommerce](https://github.com/woocommerce/woocommerce)** — The most popular open-source e-commerce solution (WordPress). Use with **Easy Digital Downloads (EDD)** for a powerful self-hosted Gumroad alternative.
+- **[Bagisto](https://github.com/bagisto/bagisto)** — Laravel-based platform with a beautiful UI; excellent for digital marketplaces.
+- **[PrestaShop](https://github.com/PrestaShop/PrestaShop)** — Feature-rich PHP platform with strong digital product modules.
+- **[OpenCart](https://github.com/opencart/opencart)** — Lightweight and easy-to-use for simple digital download stores.
+
+---
+
+## 🧩 Headless Commerce & Frameworks for Digital Goods
+Ideal for developers building custom-branded storefronts or AI-agent integrated shopping experiences.
+
+- **[MedusaJS](https://github.com/medusajs/medusa)** — Modern Node.js headless commerce. Extremely flexible for digital subscriptions.
+- **[Saleor](https://github.com/saleor/saleor)** — Python/GraphQL-first headless engine; perfect for high-performance creator stores.
+- **[Vendure](https://github.com/vendure-ecommerce/vendure)** — TypeScript/Node.js framework designed for great developer experience and custom workflows.
+- **[Spree Commerce](https://github.com/spree/spree)** — Robust Ruby on Rails framework; supports multi-tenant and complex digital sales.
+- **[Solidus](https://github.com/solidusio/solidus)** — A community-driven Rails fork of Spree, highly customizable for creator needs.
+
+---
+
+## 🤖 AI-Agent Friendly Commerce Tools
+Tools and practices to make your digital products discoverable and purchasable by AI shopping agents.
+
+- **Agentic Feeds**: Formatting product metadata for LLM ingestion (refer to [llms.txt](llms.txt)).
+- **[Whop](https://whop.com/)**: A rising marketplace for "access-based" products (software, Discord) often used by AI-savvy creators.
+
+---
+
+## 💡 How to Choose the Right Platform
+1. **Want 0 tax headache?** Choose a **Merchant of Record (MoR)** like Lemon Squeezy or Payhip.
+2. **Want the lowest fees?** Go **Self-Hosted** with WooCommerce or MedusaJS.
+3. **Want an all-in-one suite?** Look at **Podia** or **Systeme.io**.
+4. **Selling on Social?** **Stan Store** is built for mobile conversion.
+
+---
+
+## 🤝 How to Contribute
+1. Fork the repository.
+2. Add entries in the relevant section.
+3. Ensure the description is factual and includes whether it's SaaS, MoR, or Open-Source.
+4. Submit a PR.
+
+---
+
+## ⚠️ Disclaimer
+This is a community-curated list and not an endorsement. Verify fees, tax compliance (VAT/GST), and security before choosing a platform. Self-hosting requires technical maintenance.
+
+---
 
 ## 📈 Star History
 
@@ -112,9 +99,10 @@ Let's make creator commerce more accessible, customizable, and profitable.
   <a href="https://www.star-history.com/?repos=ishandutta2007%2FAwesome-Indie-Commerce&type=date&legend=bottom-right">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Indie-Commerce&type=date&theme=dark&legend=bottom-right" />
-      <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Indie-Commerce&type=date&legend=bottom-right" />
-      <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Indie-Commerce&type=date&legend=bottom-right" />
+      <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ishandurtle2007/Awesome-Indie-Commerce&type=date&legend=bottom-right" />
+      <img alt="Star History Chart for Awesome Indie Commerce" src="https://api.star-history.com/chart?repos=ishandurtle2007/Awesome-Indie-Commerce&type=date&legend=bottom-right" />
     </picture>
   </a>
 </div>
 
+**Targeted Keywords**: *Gumroad alternatives, Lemon Squeezy alternatives, self-hosted e-commerce, open source digital storefront, merchant of record for creators, low fee digital product sales, headless commerce digital goods, course platform alternatives.*
