@@ -1,12 +1,20 @@
 # Awesome Indie Commerce: Best Self-Hosted & Open-Source Alternatives to Gumroad and Lemon Squeezy (2026)
 
+<div align="center">
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/ishandutta2007/awesome-awesome-awesome)
 [![Last Updated](https://img.shields.io/badge/last%20updated-May%202026-brightgreen)](README.md)
+<br />
+<br />
+  <a href="https://github.com/ishandutta2007">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow&style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
+  </a>
 
 > **What is Awesome Indie Commerce?**  
 > Awesome Indie Commerce is a curated directory of e-commerce platforms and open-source tools specifically designed for independent creators selling digital products, courses, and memberships. It focuses on identifying high-value **Merchant of Record (MoR)** alternatives and **self-hosted storefronts** that offer lower fees and greater data ownership than traditional marketplaces.
 
+</div>
 ---
 
 - [📖 Table of Contents](#-table-of-contents)
