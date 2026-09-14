@@ -48,6 +48,7 @@ Best for solopreneurs and small teams looking to maximize margins. Some are MoR,
 - **[Stan Store](https://www.stan.store/)** — Optimized for high-conversion "Link-in-bio" mobile checkouts.
 - **[SendOwl](https://www.sendowl.com/)** — Lightweight delivery platform focused on secure digital downloads and subscriptions.
 - **[Systeme.io](https://systeme.io/)** — Comprehensive suite with funnels and email marketing; very competitive pricing.
+- **[Estante](https://estante.store/)** — SaaS storefront for Latin America. Local-currency checkout with instalments; free plan with an 8% fee per sale.
 
 ---
 
